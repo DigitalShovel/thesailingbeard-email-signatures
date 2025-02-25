@@ -38,10 +38,12 @@
       justify-content: center;
     }
 
-    &-item {
-      @media (max-width: 1440px) {
-        display: none;
-      }
-    }
+    // Might need this in the future if we add more items
+
+    // &-item {
+    //   @media (max-width: 1440px) {
+    //     display: none;
+    //   }
+    // }
   }
 }
